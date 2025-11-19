@@ -7,9 +7,28 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Default Users
+
+Project ini sudah menyediakan beberapa akun bawaan untuk testing:
+
+Admin
+Email: admin@gmail.com
+Password: 12345678
+Admin bisa melakukan semua operasi di aplikasi, termasuk menambah, mengubah, dan menghapus data.
+
+Guest
+Email: guest@gmail.com
+Password: guest1234
+Guest hanya bisa melihat data, tidak bisa menambah, mengubah, atau menghapus.
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
