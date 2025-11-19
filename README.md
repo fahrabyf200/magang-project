@@ -7,7 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Default Users
+# Demo
+berikut merupakan link demo untuk penggunaannya
+https://drive.google.com/drive/folders/10L_6m3dt2a_J0fc-H74dGndPNjkGcCER?usp=sharing
+
+
+
+
+# Default Users
 
 Project ini sudah menyediakan beberapa akun bawaan untuk testing:
 
